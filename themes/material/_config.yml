@@ -235,6 +235,10 @@ sidebar:
             link: "categories/smoke-only-the-good/"
             icon: star
             divider: false
+        Manufacture:
+            link: "categories/manufacture/"
+            icon: star
+            divider: false
     article_num:
         use: false
         divider: false
